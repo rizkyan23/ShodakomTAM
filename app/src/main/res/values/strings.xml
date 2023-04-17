@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fragmentShodakom</string>
+
+    <string name="home_fragment">Fragment Home</string>
+    <string name="chat_fragment">Fragment Chat</string>
+    <string name="news_fragment">Fragment News</string>
+    <string name="topup_fragment">Fragment TopUp</string>
+</resources>
